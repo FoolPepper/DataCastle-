@@ -1,5 +1,6 @@
 # DataCastle-
 2018年10月到12月底，DataCastle和中国电信甜橙金融联合举办，主旨为羊毛党预测与识别
+比赛地址：http://www.dcjingsai.com/common/cmpt/2018%E5%B9%B4%E7%94%9C%E6%A9%99%E9%87%91%E8%9E%8D%E6%9D%AF%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html
 
 本比赛面对风险预测问题，本题难点在于：如何处理羊毛党问题中的由于平台与羊毛党之间的对抗，所带来的特征稳定性与特征选择的问题。
 
