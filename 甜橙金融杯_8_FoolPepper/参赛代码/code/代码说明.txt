@@ -1,0 +1,20 @@
+代码存储文件夹：src目录下
+最终运行结果存放于：sub目录下
+
+代码说明：
+1. main.py            主运行函数
+2. config.py          配置文件，包含文件路径等信息
+3. dataCleaning.py    数据清洗
+4. get_feature_1.py    基本统计特征与交叉特征
+5. get_feature_2.py    基于时间细粒度特征的交叉特征
+6. get_feature_3.py    ip池异常特征
+7. get_feature_4.py    账号使用异常特征
+8. stacking.py            stacking操作并输出结果
+
+注：
+本程序运行版本如下：
+平台 window10  CPU: i7-7700k 32G
+IDE ：Spyder
+
+python 3.6
+pandas 0.23.0         #pandas版本可能会对结果造成一定影响
